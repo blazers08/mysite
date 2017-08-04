@@ -1,9 +1,9 @@
-#Denny's Website
+##Denny's Website
 
-#Theme Autor
+##Theme Autor
 Theme made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
 
-#Flatfy - Theme | New Version!
+##Flatfy - Theme | New Version!
 
 #Responsive Mobile & Flat Design 
 Own Carousel & Bootstrap Framework CSS 
